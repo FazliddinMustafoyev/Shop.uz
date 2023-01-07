@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Shop.uz.Domain\Shop.uz.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
